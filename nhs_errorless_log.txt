@@ -1,0 +1,76 @@
+2025-09-02 10:00:01,120 | Q: Hi, I’m Emily. I’ll ask you a few short questions. Please answer yes or no first. Is that clear? | A: you know, I think we can talk later but I’m happy to chat now if needed | Label: FT | Score: 0.00 | Latency: 0.62s
+2025-09-02 10:00:01,120 — 10:05:00,000 (passive listening; FT-treated return to S0)
+2025-09-02 10:05:00,212 | Q: Hi, I’m Emily. I’ll ask you a few short questions. Please answer yes or no first. Is that clear? | A: yes | Label: A* | Score: 1.00 | Latency: 0.48s
+2025-09-02 10:05:05,501 | Q: Are you ready to start? | A: yes | Label: A* | Score: 1.00 | Latency: 0.52s
+2025-09-02 10:05:11,874 | Q: Before we begin, how are you feeling today? | A: pretty good | Label: A* | Score: 1.00 | Latency: 0.72s
+2025-09-02 10:05:18,239 | Q: I’m going to ask you about today’s date. | A: ok | Label: A* | Score: 1.00 | Latency: 0.44s
+2025-09-02 10:05:24,603 | Q: What day is today? | A: sunday | Label: Ā | Score: 0.50 | Latency: 0.66s
+2025-09-02 10:05:27,218 | Q: What day is today? | A: tuesday | Label: A* | Score: 1.00 | Latency: 0.55s
+2025-09-02 10:05:30,914 | Q: Is the light on? | A: | Label: S | Score: 0.00 | Latency: 0.00s
+2025-09-02 10:05:52,146 | Q: Can you tell me again, what day is today? | A: tuesday | Label: A* | Score: 1.00 | Latency: 0.61s
+2025-09-02 10:05:58,522 | Q: What was the address? | A: two south hunter street liverpool | Label: A* | Score: 1.00 | Latency: 0.60s
+2025-09-02 10:06:05,903 | Q: Have you had any tea or water today? | A: yes | Label: A* | Score: 1.00 | Latency: 0.52s
+2025-09-02 10:06:17,181 | Q: What was the address? | A: 2 south hunter street liverpool | Label: A* | Score: 1.00 | Latency: 0.58s
+2025-09-02 10:06:24,559 | Q: Are you comfortable managing your medicines or finances? | A: please stop, call nurse | Label: C | Score: 0.00 | Latency: 0.83s
+2025-09-02 10:06:24,559 — 10:10:00,000 (short pause; passive listening after C)
+2025-09-02 10:10:10,104 | Q: Hi, I’m Emily. I’ll ask you a few short questions. Please answer yes or no first. Is that clear? | A: yes | Label: A* | Score: 1.00 | Latency: 0.47s
+2025-09-02 10:10:15,486 | Q: Are you ready to start? | A: | Label: S | Score: 0.00 | Latency: 0.00s
+2025-09-02 10:10:18,122 | Q: Please answer yes or no. Are you ready to start? | A: yes | Label: A* | Score: 1.00 | Latency: 0.64s
+2025-09-02 10:10:24,381 | Q: Before we begin, how are you feeling today? | A: so-so | Label: A* | Score: 1.00 | Latency: 0.71s
+2025-09-02 10:10:30,759 | Q: I’m going to ask you about today’s date. | A: what? | Label: Ā | Score: 0.50 | Latency: 0.49s
+2025-09-02 10:10:33,147 | Q: Just say yes when you’re ready. | A: yes | Label: A* | Score: 1.00 | Latency: 0.46s
+2025-09-02 10:10:39,509 | Q: What day is today? | A: tuesday | Label: A* | Score: 1.00 | Latency: 0.58s
+2025-09-02 10:10:45,877 | Q: Can you see a window? | A: yes | Label: A* | Score: 1.00 | Latency: 0.53s
+2025-09-02 10:11:07,161 | Q: Can you tell me again, what day is today? | A: sunday | Label: Ā | Score: 0.50 | Latency: 0.62s
+2025-09-02 10:11:13,532 | Q: What was the address? | A: 21 hunter street | Label: Ā | Score: 0.50 | Latency: 0.88s
+2025-09-02 10:11:16,871 | Q: What was the address? | A: 2 south hunter street liverpool | Label: A* | Score: 1.00 | Latency: 0.79s
+2025-09-02 10:11:24,256 | Q: Did you drink water this morning? | A: no | Label: A* | Score: 1.00 | Latency: 0.52s
+2025-09-02 10:11:35,521 | Q: What was the address? | A: two south hunter street liverpool | Label: A* | Score: 1.00 | Latency: 0.60s
+2025-09-02 10:11:42,893 | Q: Are you comfortable managing your medicines or finances? | A: yes i manage my medicines and pay my bills every week on my own | Label: FT | Score: 0.00 | Latency: 0.86s
+2025-09-02 10:11:42,893 — 10:20:00,000 (passive listening; FT-treated soft return to S0)
+2025-09-02 10:20:03,006 | Q: Hi, I’m Emily. I’ll ask you a few short questions. Please answer yes or no first. Is that clear? | A: no | Label: Ā | Score: 0.50 | Latency: 0.50s
+2025-09-02 10:20:06,361 | Q: Please answer yes or no. | A: yes | Label: A* | Score: 1.00 | Latency: 0.58s
+2025-09-02 10:20:12,736 | Q: Are you ready to start? | A: yes | Label: A* | Score: 1.00 | Latency: 0.52s
+2025-09-02 10:20:19,114 | Q: Before we begin, how are you feeling today? | A: tired and a bit anxious | Label: A* | Score: 1.00 | Latency: 0.78s
+2025-09-02 10:20:25,482 | Q: I’m going to ask you about today’s date. | A: okay | Label: A* | Score: 1.00 | Latency: 0.44s
+2025-09-02 10:20:31,861 | Q: What day is today? | A: sunday | Label: Ā | Score: 0.50 | Latency: 0.67s
+2025-09-02 10:20:34,496 | Q: What day is today? | A: tuesday | Label: A* | Score: 1.00 | Latency: 0.56s
+2025-09-02 10:20:37,874 | Q: Is the door open? | A: no | Label: A* | Score: 1.00 | Latency: 0.55s
+2025-09-02 10:20:59,157 | Q: Can you tell me again, what day is today? | A: tuesday | Label: A* | Score: 1.00 | Latency: 0.60s
+2025-09-02 10:21:05,534 | Q: What was the address? | A: 2 south hunter street liverpool | Label: A* | Score: 1.00 | Latency: 0.61s
+2025-09-02 10:21:12,912 | Q: Have you brushed your teeth today? | A: yes | Label: A* | Score: 1.00 | Latency: 0.53s
+2025-09-02 10:21:24,183 | Q: What was the address? | A: two south hunter street liverpool | Label: A* | Score: 1.00 | Latency: 0.59s
+2025-09-02 10:21:31,556 | Q: Are you comfortable managing your medicines or finances? | A: please stop, call nurse | Label: C | Score: 0.00 | Latency: 0.81s
+2025-09-02 10:21:31,556 — 10:35:00,000 (longer passive period)
+2025-09-02 10:35:04,010 | Q: Hi, I’m Emily. I’ll ask you a few short questions. Please answer yes or no first. Is that clear? | A: yes | Label: A* | Score: 1.00 | Latency: 0.47s
+2025-09-02 10:35:09,392 | Q: Are you ready to start? | A: yes | Label: A* | Score: 1.00 | Latency: 0.51s
+2025-09-02 10:35:15,763 | Q: Before we begin, how are you feeling today? | A: not good | Label: A* | Score: 1.00 | Latency: 0.73s
+2025-09-02 10:35:22,139 | Q: I’m going to ask you about today’s date. | A: okay | Label: A* | Score: 1.00 | Latency: 0.45s
+2025-09-02 10:35:28,519 | Q: What day is today? | A: tuesday | Label: A* | Score: 1.00 | Latency: 0.59s
+2025-09-02 10:35:34,887 | Q: Can you see a window? | A: | Label: S | Score: 0.00 | Latency: 0.00s
+2025-09-02 10:35:56,171 | Q: Can you tell me again, what day is today? | A: tuesday | Label: A* | Score: 1.00 | Latency: 0.62s
+2025-09-02 10:36:02,546 | Q: What was the address? | A: two south hunter street liverpool | Label: A* | Score: 1.00 | Latency: 0.60s
+2025-09-02 10:36:09,923 | Q: Have you had any tea or water today? | A: no | Label: A* | Score: 1.00 | Latency: 0.52s
+2025-09-02 10:36:21,195 | Q: What was the address? | A: 2 south hunter street liverpool | Label: A* | Score: 1.00 | Latency: 0.58s
+2025-09-02 10:36:28,569 | Q: Are you comfortable managing your medicines or finances? | A: yes i’m comfortable and i track everything on a spreadsheet weekly | Label: FT | Score: 0.00 | Latency: 0.86s
+2025-09-02 10:36:28,569 — 10:50:00,000 (passive listening; FT-treated soft return)
+2025-09-02 10:50:03,050 | Q: Hi, I’m Emily. I’ll ask you a few short questions. Please answer yes or no first. Is that clear? | A: yes | Label: A* | Score: 1.00 | Latency: 0.46s
+2025-09-02 10:50:08,432 | Q: Are you ready to start? | A: yes | Label: A* | Score: 1.00 | Latency: 0.52s
+2025-09-02 10:50:14,809 | Q: Before we begin, how are you feeling today? | A: fine | Label: A* | Score: 1.00 | Latency: 0.69s
+2025-09-02 10:50:21,185 | Q: I’m going to ask you about today’s date. | A: okay | Label: A* | Score: 1.00 | Latency: 0.44s
+2025-09-02 10:50:27,563 | Q: What day is today? | A: sunday | Label: Ā | Score: 0.50 | Latency: 0.67s
+2025-09-02 10:50:30,198 | Q: What day is today? | A: tuesday | Label: A* | Score: 1.00 | Latency: 0.56s
+2025-09-02 10:50:36,566 | Q: Is the door open? | A: yes | Label: A* | Score: 1.00 | Latency: 0.55s
+2025-09-02 10:50:57,846 | Q: Can you tell me again, what day is today? | A: tuesday | Label: A* | Score: 1.00 | Latency: 0.61s
+2025-09-02 10:51:04,222 | Q: What was the address? | A: 2 south hunter street liverpool | Label: A* | Score: 1.00 | Latency: 0.60s
+2025-09-02 10:51:11,599 | Q: Did you drink water this morning? | A: yes | Label: A* | Score: 1.00 | Latency: 0.53s
+2025-09-02 10:51:22,870 | Q: What was the address? | A: two south hunter street liverpool | Label: A* | Score: 1.00 | Latency: 0.59s
+2025-09-02 10:51:30,243 | Q: Are you comfortable managing your medicines or finances? | A: please stop, call nurse | Label: C | Score: 0.00 | Latency: 0.82s
+2025-09-02 10:51:30,243 — 11:00:00,000 (passive listening until hour end)2025-09-11 22:19:38,204 | Q: Hi, I’m Emily. I’ll ask you a few short questions. Please answer yes or no first. Is that clear? | A: yeah what kind of questions | Label: A* | Score: 1.00 | Latency: 0.74s
+2025-09-11 22:19:47,147 | Q: Are you ready to start? | A: yes i'm ready | Label: A* | Score: 1.00 | Latency: 0.11s
+2025-09-11 22:20:09,243 | Q: Before we begin, how are you feeling today? | A: you look so tired like ah i have a very busy day today i don't know like what's going on i'm tired | Label: C | Score: 0.00 | Latency: 0.00s
+2025-09-11 22:37:05,990 | Q: Hi, I’m Emily. I’ll ask you a few short questions. Please answer yes or no first. Is that clear? | A: yeah who is this | Label: A* | Score: 1.00 | Latency: 0.91s
+2025-09-11 22:37:16,656 | Q: Are you ready to start? | A: well i'm ready to start but for what like i don't know | Label: C | Score: 0.00 | Latency: 0.47s
+2025-09-11 22:38:22,025 | Q: Hi, I’m Emily. I’ll ask you a few short questions. Please answer yes or no first. Is that clear? | A: ah yeah what kind of questions would you be asking like i don't know | Label: C | Score: 0.00 | Latency: 0.98s
+2025-09-11 22:39:27,952 | Q: Hi, I’m Emily. I’ll ask you a few short questions. Please answer yes or no first. Is that clear? | A: and i esteem i like to watch football on tv like it's very fun i enjoy football a lot | Label: FT | Score: 0.00 | Latency: 0.04s
+2025-09-11 22:39:39,593 | Q: Hi, I’m Emily. Can you hear me? | A: yeah who is this | Label: A* | Score: 1.00 | Latency: 0.18s
