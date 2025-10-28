@@ -1,10 +1,29 @@
+
 # NHS-errorless-learning- voice assistant
-- Deterministic FSM-based NHS-aligned conversational AI assistant for cognitive rehabilitation.
-- Implements **Errorless Learning (EL)** protocols, real-time **offline speech recognition (Vosk)**, TTS feedback, and structured, anonymised patient interaction logging for auditable clinical use.
-  
+
+<div align="justify">
+The NHS Errorless Learning Voice Assistant is a deterministic, offline conversational AI system designed to support cognitive rehabilitation for patients recovering from neurological conditions such as post-brain surgery.
+
+The project implements NHS-aligned rehabilitation protocols using a Deterministic Finite State Machine (FSM) to deliver structured, predictable, and auditable patient interactions. By following Errorless Learning (EL) principles — including modeling correct responses, guided recall, distraction, and delayed recall — the system helps patients practice orientation and memory exercises while minimizing cognitive frustration and error reinforcement.
+
+Unlike cloud-based solutions, this assistant operates fully offline, ensuring strict privacy and data security. It uses real-time speech recognition powered by Vosk and text-to-speech (TTS) feedback via pyttsx3, enabling natural, low-latency interaction. All interactions are recorded in structured anonymised logs, supporting clinical auditing and future outcome analysis.
+
+The envisioned deployment scenario involves a bedside conversational healthcare robot that listens passively during rest periods, initiates structured orientation and memory tasks, and adapts its flow deterministically based on patient responses. This design ensures a safe, explainable, and ethically compliant digital rehabilitation experience, aligned with NHS clinical standards.
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c656f321-cac8-455f-a5a0-a3ec3bab33cc" 
+       alt="NHS-errorless-learning-voice-assistant" 
+       width="600">
+  <p><em>Concept rendering of the bedside healthcare assistant robot supporting NHS-aligned cognitive rehabilitation.</em></p>
+</div>
+
+
+
 ## Project Overview
 
 This MSc project presents an **AI-powered Healthcare Robot Assistant** designed to support **cognitive rehabilitation** for patients recovering from neurological events (e.g., post-brain surgery).
+
 
 The system is built on principles of safety, privacy, and clinical auditability:
 
@@ -16,13 +35,13 @@ This prototype was developed to meet the need for safe, reproducible, and privac
 
 ## Clinical & Technical Objectives
 
-| Icon | Objective | Detail |
-| :---: | :--- | :--- |
-| **Structured Exercises** | Deliver orientation and memory recall exercises (e.g., date, address). |
-| **Errorless Learning** | Strictly adhere to EL principles (model, recall, distractor, delayed recall). |
-| **Deterministic Classification** | Classify patient speech into auditable categories (A\*, Ā, S, C, FT). |
-| **Offline Operation** | Ensure complete operation without an internet connection for patient privacy and safety. |
-| **Auditable Logging** | Log every state transition and response deterministically for clinical review.
+|Icon                     | Objective Details |
+| :---                    | :--- |
+| Structured Exercises | Deliver orientation and memory recall exercises (e.g., date, address). |
+| Errorless Learning | Strictly adhere to EL principles (model, recall, distractor, delayed recall). |
+| Deterministic Classification | Classify patient speech into auditable categories (A\*, Ā, S, C, FT). |
+| Offline Operation | Ensure complete operation without an internet connection for patient privacy and safety. |
+| Auditable Logging | Log every state transition and response deterministically for clinical review.
 
 ## Repository Structure
 
@@ -32,7 +51,7 @@ nhs-errorless-learning-assistant
 - nhs-errorless-log
 - start_beep
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Programming Language:** Python 3.10+
 - **STT (Offline):** [Vosk](https://alphacephei.com/vosk)
@@ -42,16 +61,16 @@ nhs-errorless-learning-assistant
 
 ---
 
-## ⚡ Setup Instructions
+## Setup Instructions
 
-### 1. Follow the Setup Instructions below
-### 2. Install Dependencies as Shown in the instructions
-### 3. Check Audio Devices
-### 5. Run the Assistant
+##### 1. Follow the Setup Instructions below
+##### 2. Install Dependencies as Shown in the instructions
+##### 3. Check Audio Devices
+##### 5. Run the Assistant
 
-🧭 FSM State Flow & Response Categories
-FSM State Flow
-The session is guided by a deterministic sequence of states, with EL steps embedded in S4 and S5.
+## FSM State Flow & Response Categories
+### FSM State Flow
+### The session is guided by a deterministic sequence of states, with EL steps embedded in S4 and S5.
 
 | State         | Description                              |
 | ------------- | ---------------------------------------  |
