@@ -138,4 +138,16 @@ Supervisor: Prof. Mario Gianni
 
 Institution: University of Liverpool, Department of Computer Science
 
-Project: MSc — AI-powered Healthcare Robot Assistant
+Project: AI-powered Healthcare Robot Assistant
+
+Grade: A
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/bde51e81-723f-4934-b69d-949c20d1f0d9" 
+       alt="Hustech AI Logo" 
+       width="300">
+  <p><em>Project designed by <strong>hustech.ai</strong></em></p>
+</div>
+
+
+</div>
