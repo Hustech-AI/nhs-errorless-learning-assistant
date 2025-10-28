@@ -1,21 +1,10 @@
-# nhs-errorless-learning-assistant
+# NHS-errorless-learning- voice assistant
 - Deterministic FSM-based NHS-aligned conversational AI assistant for cognitive rehabilitation.
-- Implements errorless learning protocols, real-time speech recognition (Vosk), TTS feedback, and structured   patient interaction logging for clinical use
-  
-
-
-
-# NHS-FSM Voice Assistant
-
-**A deterministic, offline conversational healthcare assistant for cognitive rehabilitation.**
-
 - Implements **Errorless Learning (EL)** protocols, real-time **offline speech recognition (Vosk)**, TTS feedback, and structured, anonymised patient interaction logging for auditable clinical use.
-
----
-
+  
 ## Project Overview
 
-This MSc project presents an **AI-powered, NHS-aligned conversational healthcare assistant** designed to support **cognitive rehabilitation** for patients recovering from neurological events (e.g., post-brain surgery).
+This MSc project presents an **AI-powered Healthcare Robot Assistant** designed to support **cognitive rehabilitation** for patients recovering from neurological events (e.g., post-brain surgery).
 
 The system is built on principles of safety, privacy, and clinical auditability:
 
@@ -24,8 +13,6 @@ The system is built on principles of safety, privacy, and clinical auditability:
 - **Strict Privacy Measures:** Operates **100% offline** (no cloud) and stores only anonymised interaction logs, with no raw audio recording.
 
 This prototype was developed to meet the need for safe, reproducible, and privacy-preserving AI tools in cognitive care.
-
----
 
 ## Clinical & Technical Objectives
 
